@@ -2,7 +2,6 @@
 
 Public Class ButlerHandler
 
-
     Public Shared Function CheckIfExists(Optional path As String = "==TEMP==")
 
         ' Create doesExist dim. Assume false by default in case of
