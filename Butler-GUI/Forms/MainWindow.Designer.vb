@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
-Partial Class Form1
+Partial Class MainWindow
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
@@ -24,14 +24,14 @@ Partial Class Form1
     Private Sub InitializeComponent()
         SuspendLayout()
         ' 
-        ' Form1
+        ' MainWindow
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(682, 605)
         FormBorderStyle = FormBorderStyle.FixedSingle
         MaximizeBox = False
-        Name = "Form1"
+        Name = "MainWindow"
         StartPosition = FormStartPosition.CenterScreen
         Text = "Butler GUI"
         ResumeLayout(False)
